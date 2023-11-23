@@ -7,3 +7,6 @@
 2. Density estimation
 3. Market basket analysis
 4. Clustering
+
+
+***Regression is the process of predicting a continious value***
